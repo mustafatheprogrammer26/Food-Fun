@@ -5,13 +5,13 @@
 }
 .pict{
     width: 100%;
+    padding-top: 20px;
     background: url(images/bg.jpg);
     background-position: top;
     background-repeat: no-repeat;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .navbar{
-    margin-top: 20px;
     margin-left: 60px;
     margin-right: 60px;
     margin-bottom: 30px;
